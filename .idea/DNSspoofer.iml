@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv0" />
       <excludeFolder url="file://$MODULE_DIR$/venvv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (DNSspoofer)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7 (venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

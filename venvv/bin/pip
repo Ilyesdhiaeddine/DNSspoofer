@@ -1,4 +1,4 @@
-#!/home/kali/PycharmProjects/DNSspoofer/venvv/bin/python
+#!/root/PycharmProjects/DNSspoofer/venvv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
